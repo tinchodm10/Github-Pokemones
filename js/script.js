@@ -29,6 +29,15 @@ const pokemones = [
     hp_total: 44,
     evolucion: false,
   },
+   {
+    nombre: "Pikachu",
+    nivel: 10,
+    tipo: ["animal", "Veneno"],
+    foto: "",
+    hp: 50,
+    hp_total: 60,
+    evolucion: false,
+  },
 ];
 
 // Función para mostrar el array completo y la lista de nombres en la consola
